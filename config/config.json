@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "Mateo1998",
+    "password": "root",
     "database": "album",
     "host": "127.0.0.1",
     "dialect": "mysql"
@@ -15,9 +15,10 @@
   },
   "production": {
     "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "password": "blYRuJ2vQ9J7D0khyoaI",
+    "database": "railway",
+    "host": "containers-us-west-186.railway.app",
+    "port":"7317",
     "dialect": "mysql"
   }
 }
